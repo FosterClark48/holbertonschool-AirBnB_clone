@@ -27,9 +27,7 @@
     width: 25%;
     display: inline-block;
     vertical-align: middle;
-    flex-direction: column;
     justify-content: center;
-    padding: 20px;
 }
 .locations {
     border-right: 1px solid #DDDDDD;
