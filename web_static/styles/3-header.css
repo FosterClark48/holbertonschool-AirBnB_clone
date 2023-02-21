@@ -9,7 +9,7 @@ header {
 }
 .logo {
     width: 142px;
-    height: 60px;
+    height: 100%;
     margin-left: 20px;
     background-image: url(images/hbnb_logo.png);
     background-repeat: no-repeat;
