@@ -25,7 +25,8 @@
 .locations, .amenities {
     height: 100%;
     width: 25%;
-    display: flex;
+    display: inline-block;
+    vertical-align: middle;
     flex-direction: column;
     justify-content: center;
     padding: 20px;
