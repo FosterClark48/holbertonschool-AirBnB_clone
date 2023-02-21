@@ -11,7 +11,7 @@ header {
     width: 142px;
     height: 100%;
     margin-left: 20px;
-    background-image: url(images/hbnb_logo.png);
+    background-image: url("../images/hbnb_logo.png");
     background-repeat: no-repeat;
     background-position: center;
 }
